@@ -40,12 +40,6 @@ The software operates efficiently leveraging hardware acceleration through GPU e
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/325447/m/handbrake-screenshot.png?v=1641916854" alt="Handbrake screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Handbrake OSX excels for free video transcoding. Open-source software provides comprehensive format conversion without licensing costs democratizing video conversion.
